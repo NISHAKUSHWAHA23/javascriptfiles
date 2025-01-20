@@ -1,0 +1,50 @@
+html{
+    margin:0;
+    padding:0;
+}
+span{
+    display:block;
+}
+.canvas{
+    margin: 100px auto 100px;
+    width:80px;
+    
+   
+}
+.first{
+   text-align: center;
+   margin:10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(184, 180, 49);
+    border-radius: 5px;
+    color: brown;
+}
+
+.button{
+    width:  50px;
+    height:50px;
+    border:solid black 2px;
+    display:inline-block;
+    border-radius: 10px;
+    box-shadow: none;
+
+}
+#grey{
+    background: grey;
+}
+#white{
+    background: white;
+}
+#blue{
+    background:blue;
+}
+#yellow{
+    background: yellow;
+}
+#pink{
+    background: pink;
+}
+#purple{
+    background: purple;
+}
